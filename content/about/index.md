@@ -18,7 +18,7 @@ draft: false
 其中jsdelevr路径为:
 https://cdn.jsdelivr.net/gh/用户名/图床仓库名
 
-域名使用freenom
+域名使用freenom上的域名
 
 后续我会发布更新更多技术博客,欢迎访问和交流.
 
