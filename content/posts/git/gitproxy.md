@@ -6,7 +6,7 @@ tags: ["git"]
 categories: ["git"]
 lightgallery: true
 ---
-# git设置代理
+# git设置
 
 
 
@@ -48,3 +48,14 @@ git config --local --unset http.proxy
 
 
 
+## 设置用户名密码
+
+hugo每次push都需要输入用户名密码,我们可以生成用户名密码信息,以后都不需要输入
+
+### 具体代码
+
+```
+git config --global credential.helper store
+```
+
+在你的本地仓库文件夹执行这条命令,然后push一次,输入一次用户名和密码,以后都不需要了
