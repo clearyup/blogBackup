@@ -13,3 +13,5 @@ draft: false
 
 
 
+我在这里修改 用delop.sh脚本上传
+
