@@ -37,4 +37,3 @@ git commit -m "$msg"
 # Push 
 git push -f origin master
 
-npm run algolia
