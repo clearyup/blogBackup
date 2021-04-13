@@ -113,7 +113,7 @@ theme = "LoveIt"
     # LoveIt 新增 | 0.2.4 是否在搜索索引中使用基于 baseURL 的绝对路径
     absoluteURL = false
     [params.search.algolia]
-      index = "index.en"
+      index = "index.json"
       appID = "RF9CYMTLK8"
       searchKey = "135b22fbb7d42fd1262661d2af871d9a"
 
