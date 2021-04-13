@@ -6,6 +6,8 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # 生成静态页面(渲染草稿)
 hugo -D 
 
+
+
 git add .
 
 # 根据日期commmit
@@ -34,3 +36,5 @@ git commit -m "$msg"
 
 # Push 
 git push -f origin master
+
+npm run algolia
