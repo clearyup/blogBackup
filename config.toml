@@ -113,6 +113,8 @@ theme = "LoveIt"
     # LoveIt 新增 | 0.2.4 是否在搜索索引中使用基于 baseURL 的绝对路径
     absoluteURL = false
     [params.search.algolia]
+    #index是algolia注册的名字,不是index.json,是个坑. 
+    #在algolia中 Duplication and Grouping Distinct设置为true，然后Attribute for Distinct设置为url，或者title
       index = "clearblog"
       appID = "RF9CYMTLK8"
       searchKey = "135b22fbb7d42fd1262661d2af871d9a"
