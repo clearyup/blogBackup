@@ -8,7 +8,7 @@ const algoliasearch = require('algoliasearch');
 
 const appID = "RF9CYMTLK8"
 const indexName = "clearblog"
-const adminKey = process.env.ALGOLIA_ADMIN_KEY
+const adminKey = 2b73109c4f48779878c0e143dc031e27
 const indexFile = "./public/index.json"
 
 const client = algoliasearch(appID, adminKey);
