@@ -6,6 +6,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # 生成静态页面(渲染草稿)
 hugo -D 
 
+node push_argolia.js
 
 git add .
 
@@ -36,5 +37,5 @@ git commit -m "$msg"
 # Push 
 git push -f origin master
 
-node push_argolia.js
+
 
