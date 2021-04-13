@@ -9,9 +9,9 @@ lightgallery: true
 
 # algolia配置
 
-```node
+```node.js
 npm run algolia 
-call npm run algolia 
+node push_algolia.js
 ```
 
 
