@@ -9,11 +9,9 @@ draft: false
 
 # 好消息 好消息!
 
-```markdown
-{{< admonition tip "消息来源" false >}}
-毕业于监利中学的赵慧娟同学
-{{< /admonition >}}
-```
+
+
+![5aa39dc5-dcff-4613-8627-0b489b3852b7](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210413115945.png)
 
 ![image-20210413115243572](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210413115243.png)
 
