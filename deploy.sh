@@ -16,7 +16,7 @@ fi
 git commit -m "$msg"
 
 # Push 到远程仓库
-git push origin master
+git push -f origin master
 
 
 # 到public 仓库
@@ -33,4 +33,4 @@ fi
 git commit -m "$msg"
 
 # Push 
-git push origin master
+git push -f origin master
