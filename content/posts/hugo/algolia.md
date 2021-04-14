@@ -1,6 +1,6 @@
 ---
 title: "Algolia"
-date: 2021-04-13T20:35:14+08:00
+date: 2021-04-13T21:28:14+08:00
 draft: false
 tags: ["algolia"]
 categories: ["hugo"]
@@ -81,7 +81,7 @@ index.saveObjects(indexJson, {
 
 将 node push_index.js命令行加到deploy.sh脚本中,和git命令一起执行,完成git仓库push,网站页面更新,以及argolia的index.json更新
 
-因此你在新文章发布后,argolia也有了最新的index.json脚本,新文章不会出现检索不到的情况.
+因此你在新文章发布后,argolia也有了最新的index.json脚本,新文章不会出现检索不到的情况
 
-你最好将push_index.js文件加入到.gitignore文件中,因为其中的密钥上传到仓库可能不安全
+你最好将push_index.js文件加入到.gitignore文件中,因为其中的密钥上传到仓库可能不安全,本地管理就可以,你在完成这些配置后可以新上传一篇博客,看能否检索到,测试argolia是否更新了index.json文件
 
