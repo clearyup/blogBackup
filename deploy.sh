@@ -8,9 +8,6 @@ hugo -D
 
 node push_argolia.js
 
-
-git config core.autocrlf false
-
 git add .
 
 # 根据日期commmit
@@ -40,3 +37,4 @@ git commit -m "$msg"
 # Push 
 git push -f origin master
 
+timeout /T 30 /NOBREAK
