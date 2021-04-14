@@ -8,6 +8,9 @@ hugo -D
 
 node push_argolia.js
 
+
+git config core.autocrlf false
+
 git add .
 
 # 根据日期commmit
