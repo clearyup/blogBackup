@@ -84,9 +84,6 @@ index.saveObjects(indexJson, {
 因此你在新文章发布后,argolia也有了最新的index.json脚本,新文章不会出现检索不到的情况.
 
 
-
-{{< admonition type=note title="注意!" open=ture >}}
-
 你最好将push_index.js文件加入到.gitignore文件中,因为其中的密钥上传到仓库可能不安全
 
-{{< /admonition >}}
+
