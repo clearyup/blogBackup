@@ -83,5 +83,9 @@ index.saveObjects(indexJson, {
 
 因此你在新文章发布后,argolia也有了最新的index.json脚本,新文章不会出现检索不到的情况
 
-你最好将push_index.js文件加入到.gitignore文件中,因为其中的密钥上传到仓库可能不安全,本地管理就可以,你在完成这些配置后可以新上传一篇博客,看能否检索到,测试argolia是否更新了index.json文件
+{{< admonition type=note title="注意!" open=ture >}}
+你最好将push_index.js文件加入到.gitignore文件中,因为其中的密钥上传到仓库可能不安全,对脚本本地管理就可以,你在完成这些配置后可以新上传一篇博客,看能否检索到,测试argolia是否更新了index.json文件
+{{< /admonition >}}
+
+
 
