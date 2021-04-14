@@ -18,7 +18,7 @@ lightgallery: true
 
 ### 全局代理
 
-```git
+```sh
 git config --global http.proxy 127.0.0.1:7890
 ```
 
@@ -26,7 +26,7 @@ git config --global http.proxy 127.0.0.1:7890
 
 ### 局部代理 在仓库内使用
 
-```
+```sh
 git config --local http.proxy 127.0.0.1:7890
 ```
 
@@ -36,13 +36,13 @@ git config --local http.proxy 127.0.0.1:7890
 
 ### 取消全局代理
 
-```
+```sh
 git config --global --unset http.proxy
 ```
 
 ### 取消局部代理
 
-```
+```sh
 git config --local --unset http.proxy
 ```
 
@@ -54,8 +54,15 @@ hugo每次push都需要输入用户名密码,我们可以生成用户名密码�
 
 ### 具体代码
 
-```
+```shell
 git config --global credential.helper store
 ```
 
 在你的本地仓库文件夹执行这条命令,然后push一次,输入一次用户名和密码,以后都不需要了
+
+## 设置换行处理
+
+```sh
+git config --global core.autocrlf false
+```
+

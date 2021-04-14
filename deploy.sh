@@ -37,4 +37,3 @@ git commit -m "$msg"
 # Push 
 git push -f origin master
 
-timeout /T 30 /NOBREAK
