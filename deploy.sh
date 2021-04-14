@@ -38,4 +38,4 @@ git commit -m "$msg"
 git push --force origin master
 
 
-
+pause
