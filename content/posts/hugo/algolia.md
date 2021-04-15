@@ -9,7 +9,10 @@ lightgallery: true
 
 # algolia配置
 
-博客本身支持lunr和algolia两种搜索引擎,虽然lunr检索起来很快,但是lunr需要加载本地js文件,这会使得网站加载缓慢,考虑到搜索功能不是经常用,分类和标签直接找文章用的多,因此选择algolia搜索api
+博客本身支持lunr和algolia两种搜索引擎,为了高性能和网站加载速度我选择algolia
+
+* lunr无需同步**index.json**,但是lunr需要加载本地js文件,这会使得网站加载缓慢,并且性能低(需要检索中文时需要一个较大的分词依赖库)
+* algolia,高性能占用带宽低,网站加载快,配置麻烦,更新网站需要同步**index.json**文件
 
 ## 配置步骤
 
