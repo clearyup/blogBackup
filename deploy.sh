@@ -37,4 +37,4 @@ git commit -m "$msg"
 # Push 
 git push -f origin master
 
-sleep 1 m
+# sleep 1 m
