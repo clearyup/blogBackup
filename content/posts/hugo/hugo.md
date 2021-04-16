@@ -53,7 +53,7 @@ hugo是一个基于go语言的框架,拥有最快速的静态网页生成速度,
 
 [hugoGitHub仓库](https://github.com/gohugoio/hugo)在下载hugo 0.81.extended版本,将解压后的bin目录加载到系统path路径,cmd检验hugo是否安装成功
 
-## ![image-20210416221237155](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210416221237.png)
+![image-20210416221237155](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210416221237.png)
 
 ![image-20210416221331657](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210416221332.png)
 
