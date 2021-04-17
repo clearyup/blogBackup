@@ -126,8 +126,9 @@ git push -u origin master
 (https://www.bilibili.com/video/BV1q4411i7gL/?spm_id_from=333.788.recommend_more_video.-1)
 >
 
-!!! warning 这是
-    使用admonition语法
 
 
-
+```ad-note
+title:test
+关于扩展语法
+```
