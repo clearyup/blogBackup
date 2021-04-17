@@ -9,7 +9,7 @@ lightgallery: true
 
 
 
-# 使用hugo搭建静态博客网站
+# 使用hugo搭建网站
 
 首先,这里介绍一下传统的网站搭建,你需要的是
 
@@ -37,7 +37,7 @@ hugo是一个基于go语言的框架,拥有最快速的静态网页生成速度,
 * vercel帮你完成网页更新以及cdn网站加速
 * 静态资源加速访问,图片在github仓库通过jsdelivr加速访问
 * 写的博客直接发给别人也不需要打包图片,图片是超链接
-* 拥有评论和搜索功能
+* 拥有评论和搜索功能 
 
 基本上满足了我对于博客网站所有的需求,这里挂一张本网站在谷歌网页分析的评分,满分!
 
@@ -45,11 +45,11 @@ hugo是一个基于go语言的框架,拥有最快速的静态网页生成速度,
 
 # 配置步骤
 
-## 第一步
+## 第一步创建仓库
 
 创建github pages仓库,到github新建一个public仓库,仓库名为**你的用户名.github.io**,例如我的GitHub用户名为clearyup,那我的仓库名为clearyup.github.io
 
-## 第二步
+## 第二步下载hugo
 
 [hugoGitHub仓库](https://github.com/gohugoio/hugo)在下载hugo 0.81.extended版本,将解压后的bin目录加载到系统path路径,cmd检验hugo是否安装成功
 
@@ -57,5 +57,45 @@ hugo是一个基于go语言的框架,拥有最快速的静态网页生成速度,
 
 ![image-20210416221331657](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210416221332.png)
 
+##  第三步 创建网站
+* 在你的hugo目录下进入cmd 新建一个网站根目录
+```bash
+hugo new site myblog
+```
+
+![c](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210417102917.png)
+
+* cmd中使用hugo命令创建第一篇文章
+```bash
+cd myblog
+hugo new posts/myfirst.md
+```
+这样在你的myblog/content/posts文件夹下就生成了myfirst.md文件,这个文件是根据myblog/archetypes目录下的default.md模板来创建新的md文件,你可以修改这个default.md文件作为新建文件的模板
+
+{{< admonition type=note title="注意!" open=ture >}}
+这里的文章头部有一个draft:true表示文章是草稿,使用hugo构建网站的时候不会将此文章生成静态html,建议设置成false
+{{< /admonition >}}
+
+* 设置主题
+
+你可以到[hugo主题库](https://themes.gohugo.io/)选择一个主题,找到它的git仓库地址,然后使用git命令安装(git要设置好了代理)
+```bash
+cd themes
+git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
+```
+这里是 git submodule add 主题仓库地址,你可以选择你喜欢的主题更换这个命令
+
+* 配置主题
+
+在myblog的config.toml中设置主题为你的主题,建议按照主题文档[配置文件](https://github.com/luizdepra/hugo-coder/blob/master/exampleSite/config.toml)进行详细配置
+```toml
+theme = "hugo-coder"
+```
+* cmd本地运行
+```bash
+hugo -D
+hugo server
+```
+运行成功之后到http://localhost:1313/本地浏览网站
 
 

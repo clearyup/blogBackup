@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "5d7a8e3a10227254",
+    "type": "split",
+    "children": [
+      {
+        "id": "15812d627c261b4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hugo/hugo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81e5f40ce5331584",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe08a47a2833ab75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a921a26c217328e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cf5c0bc9c7b4b28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "400a57442802fcae",
+    "type": "split",
+    "children": [
+      {
+        "id": "268e9fb70da26769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a052bd74c3526008",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hugo/hugo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15812d627c261b4a",
+  "lastOpenFiles": [
+    "hugo/hugo.md"
+  ]
+}
