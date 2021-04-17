@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
-            "mode": "source"
+            "file": "English grammar/English.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo/hugo.md",
+                "file": "English grammar/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo/hugo.md"
+                "file": "English grammar/English.md"
               }
             }
           }
@@ -110,9 +110,10 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
-    "hugo/hugo.md",
+    "English grammar/English.md",
+    "git/gitproxy.md",
     "hugo/algolia.md",
-    "hugo/Untitled.md",
-    "git/gitproxy.md"
+    "hugo/hugo.md",
+    "hugo/Untitled.md"
   ]
 }
