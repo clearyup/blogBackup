@@ -119,3 +119,9 @@ git push -u origin master
 之后输入github用户名和密码就可以进行push,git有关配置参考我另一篇博客**git配置**
 
 最后用户名.github.io访问你的网站
+
+> 参考视频
+(https://www.bilibili.com/video/BV147411M7C7)
+(https://www.bilibili.com/video/BV1q4411i7gL/?spm_id_from=333.788.recommend_more_video.-1)
+
+
