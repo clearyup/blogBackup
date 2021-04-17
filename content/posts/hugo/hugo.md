@@ -24,7 +24,7 @@ lightgallery: true
 * 云服务器需要进行一系列繁琐的安全配置,常用端口可能需要经常更换,因为公网服务器一直在被世界各地的人攻击
 * 服务器需要一直续费,不然到期后网站挂掉
 * 图片,js等静态资源加载慢(服务器配置好忽略)
-* cdn服务不好部署
+* 手动前后端管理
 
 # 另一种选择 hugo
 
@@ -54,6 +54,7 @@ hugo是一个基于go语言的框架,拥有最快速的静态网页生成速度,
 [hugoGitHub仓库](https://github.com/gohugoio/hugo)在下载hugo 0.81.extended版本,将解压后的bin目录加载到系统path路径,cmd检验hugo是否安装成功
 
 ![image-20210416221237155](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210416221237.png)
+
 
 ![image-20210416221331657](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210416221332.png)
 
@@ -124,4 +125,9 @@ git push -u origin master
 (https://www.bilibili.com/video/BV147411M7C7)  
 (https://www.bilibili.com/video/BV1q4411i7gL/?spm_id_from=333.788.recommend_more_video.-1)
 >
+
+!!! warning 这是
+    使用admonition语法
+
+
 
