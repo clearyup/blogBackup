@@ -90,12 +90,32 @@ git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
 在myblog的config.toml中设置主题为你的主题,建议按照主题文档[配置文件](https://github.com/luizdepra/hugo-coder/blob/master/exampleSite/config.toml)进行详细配置
 ```toml
 theme = "hugo-coder"
+baseURL = "https://你的github用户名.github.io"
 ```
 * cmd本地运行
 ```bash
-hugo -D
 hugo server
 ```
 运行成功之后到http://localhost:1313/本地浏览网站
 
+##  部署到github pages
 
+* 生成静态网页
+在myblog根目录下使用cmd命令
+```bash
+hugo -D
+```
+为确保所有文章都生成静态网页,使用hugo -D是草稿也生成静态网页
+
+* 推送到远程仓库
+```bash
+cd public
+git init
+git add .
+git commit -m "first commit"
+git remote add origin 仓库地址
+git push -u origin master
+```
+之后输入github用户名和密码就可以进行push,git有关配置参考我另一篇博客**git配置**
+
+最后用户名.github.io访问你的网站
