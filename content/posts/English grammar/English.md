@@ -22,7 +22,8 @@ lightgallery: true
 
 ## 谓语动词的分类
 这里先给出一张谓语动词分类的思维导图
-![谓语动词](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210418170921.svg)
+![谓语动词](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210418172330.png)
+
 
 
 
