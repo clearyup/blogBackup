@@ -10,9 +10,22 @@
           "type": "markdown",
           "state": {
             "file": "English grammar/English.md",
+            "mode": "source"
+          }
+        },
+        "group": "bfce82bcd14faa65"
+      },
+      {
+        "id": "0c808cce2fb006fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English grammar/English.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "bfce82bcd14faa65"
       }
     ],
     "direction": "vertical"
@@ -108,12 +121,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2de07016ef198ec9",
+  "active": "0c808cce2fb006fc",
   "lastOpenFiles": [
     "English grammar/English.md",
+    "hugo/hugo.md",
     "git/gitproxy.md",
     "hugo/algolia.md",
-    "hugo/hugo.md",
     "hugo/Untitled.md"
   ]
 }

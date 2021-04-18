@@ -1,5 +1,5 @@
 /public
 push_argolia.js
-.env
-.obsidian
-.ztr-directory
+*.env
+*.obsidian
+*.ztr-directory
