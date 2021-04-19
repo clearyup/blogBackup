@@ -1,5 +1,5 @@
 /public
 push_argolia.js
 .env
-/content/posts/.obsidian
+/content/posts/*.
 
