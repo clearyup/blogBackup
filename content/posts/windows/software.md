@@ -7,50 +7,50 @@ categories: ["windows"]
 lightgallery: true
 ---
 ## 常用软件
->Chrome
+>[Clash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅 `U盘安装`
 
->Clash,设置自动更新订阅
+>[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 
->Bandizip,防火墙设置拦截更新程序
+>Bandizip,防火墙设置拦截更新程序,`U盘安装`
 
->Potplayer 无边框设置
+>Potplayer 无边框设置,`U盘安装`
 
->腾讯桌面管理软件
->Coodesker
+>[腾讯桌面管理软件](https://guanjia.qq.com/product/zmzl/)
+>[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
->OBS 
->Gif动图录制软件
+>[OBS](https://obsproject.com/) 
+>Gif动图录制软件 `U盘安装`
 
->uTools
+>[uTools](https://u.tools/)
 内部安装everything
 
->XMind ZEN
+>XMind ZEN `u盘安装`
 
->百度网盘
+>[百度网盘](https://pan.baidu.com/download#pan)
 
->IDM
+>IDM `U盘安装`
 
->Typora 
->Obsidian 
->Notion 
->picgo
+>[Typora](https://typora.io/) 
+>[Obsidian](https://obsidian.md/) 
+>[Notion](https://www.notion.so/) 
+>[picgo](https://github.com/Molunerfinn/PicGo/releases)
 
->Capslock+
+>[Capslock+](https://capslox.com/capslock-plus/)
 
->IObit Uninstaller Portable
+>IObit Uninstaller Portable `U盘安装`
 
->Snipaste
+>[Snipaste](https://zh.snipaste.com/)
 
->BookxNote pro
+>[BookxNote pro](http://www.bookxnote.com/)
 
->vscode 
->sublimeText3 
+>[vscode](https://code.visualstudio.com/) 
+>[sublimeText3](https://www.sublimetext.com/3) 
 >idea 
->git
+>[git](https://git-scm.com/)
 
->Vmware workstation
+>Vmware workstation `U盘安装`
 
->Termius
+>Termius `U盘安装`
 
 
 
@@ -72,9 +72,9 @@ lightgallery: true
 
 >node npm
 
->hugo
+>[hugo](https://github.com/gohugoio/hugo/releases)
 
->Fira Code字体
+>[Fira Code字体](https://github.com/tonsky/FiraCode/releases)
 
 
 >字体配置
