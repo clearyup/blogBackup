@@ -28,7 +28,7 @@ lightgallery: true
 
 # 另一种选择 hugo
 
-hugo是一个基于go语言的框架,拥有最快速的静态网页生成速度,这里我们用它来搭建博客网站,使用github pages作为网站的托管,部署到vercel进行网站页面更新以及cdn加速,文章图片使用picgo+github仓库+jsdelivr组合图床,使用开源的utterances作为评论模块,使用algolia作为网站内部搜索引擎
+hugo是一个基于`go语言`的框架,拥有最快速的静态网页生成速度,这里我们用它来搭建博客网站,使用github pages作为网站的托管,部署到vercel进行网站页面更新以及cdn加速,文章图片使用picgo+github仓库+jsdelivr组合图床,使用开源的utterances作为评论模块,使用algolia作为网站内部搜索引擎
 
 这样做的好处
 
