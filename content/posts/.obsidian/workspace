@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "English grammar/English.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "bfce82bcd14faa65"
@@ -124,9 +124,14 @@
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
     "English grammar/English.md",
-    "hugo/hugo.md",
+    "English grammar/complexSentence.md",
+    "templates/article.md.md",
+    "English grammar/complexSentence.md.md",
     "git/gitproxy.md",
-    "hugo/algolia.md",
-    "hugo/Untitled.md"
+    "article.md.md",
+    "Untitled.md",
+    "templates/template.md.md",
+    "templates/Untitled.md",
+    "English grammar/template.md.md"
   ]
 }
