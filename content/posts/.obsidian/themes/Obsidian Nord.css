@@ -22,7 +22,8 @@
     --green:  #a3be8c;
     --purple: #b48ead;
 
-    --font-monospace: 'Fira Code','Hack Nerd Font', 'Source Code Pro', monospace;
+    /*--font-monospace: 'Fira Code','Hack Nerd Font', 'Source Code Pro', monospace;*/
+    --font-monospace: 'Fira Code';
 }
 
 .theme-dark
