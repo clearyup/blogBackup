@@ -89,3 +89,5 @@ lightgallery: true
 ```
 
 >[Noto Serif字体](https://www.google.com/get/noto/#serif-lgc)
+
+>[Mactype](https://mactype.net/)
