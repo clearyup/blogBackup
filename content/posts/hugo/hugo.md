@@ -121,6 +121,15 @@ git push -u origin master
 
 最后用户名.github.io访问你的网站
 
+## 部署到Vercel
+部署到vercel后网站拥有cdn加速,当你用git推送新文章到github仓库,vercel会帮你重新发布新页面,网站刷新后就可以看到新页面的内容
+
+### 第一步
+注册Vercel账号,直接使用GitHub账号登录就可以了,然后允许访问所有仓库
+
+### 第二步
+择`Import Git Repository`，选择`用户名.github.io`这个仓库即可。在`Environment Variables`这里，添加一个变量，`HUGO_VERSION = 0.80.0` 以便正确编译,随后直接部署就可以了
+
 > 参考视频   
 (https://www.bilibili.com/video/BV147411M7C7)  
 (https://www.bilibili.com/video/BV1q4411i7gL/?spm_id_from=333.788.recommend_more_video.-1)

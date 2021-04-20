@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "hugo/hugo.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "hugo/hugo.md",
             "mode": "preview"
           }
         },
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/software.md",
+                "file": "hugo/hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/software.md"
+                "file": "hugo/hugo.md"
               }
             }
           }
@@ -123,11 +123,11 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "hugo/hugo.md",
+    "hugo/algolia.md",
     "windows/software.md",
     "English grammar/English.md",
     "git/gitproxy.md",
-    "hugo/hugo.md",
-    "hugo/algolia.md",
     "English grammar/complexSentence.md",
     "templates/article.md.md",
     "English grammar/complexSentence.md.md",
