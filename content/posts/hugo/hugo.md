@@ -128,7 +128,7 @@ git push -u origin master
 注册Vercel账号,直接使用GitHub账号登录就可以了,然后允许访问所有仓库
 
 ### 第二步
-择`Import Git Repository`，选择`用户名.github.io`这个仓库即可。在`Environment Variables`这里，添加一个变量，`HUGO_VERSION = 0.80.0` 以便正确编译,随后直接部署就可以了
+选择`Import Git Repository`，选择`用户名.github.io`这个仓库即可。在`Environment Variables`这里，添加一个变量，`HUGO_VERSION = 0.80.0` 以便正确编译,随后直接部署就可以了
 
 > 参考视频   
 (https://www.bilibili.com/video/BV147411M7C7)  
