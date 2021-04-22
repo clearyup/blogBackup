@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
+            "file": "database/ACID.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
+            "file": "database/ACID.md",
             "mode": "preview"
           }
         },
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo/hugo.md",
+                "file": "database/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo/hugo.md"
+                "file": "database/ACID.md"
               }
             }
           }
@@ -123,6 +123,7 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "database/ACID.md",
     "hugo/hugo.md",
     "hugo/algolia.md",
     "windows/software.md",
@@ -131,7 +132,6 @@
     "English grammar/complexSentence.md",
     "templates/article.md.md",
     "English grammar/complexSentence.md.md",
-    "article.md.md",
-    "Untitled.md"
+    "article.md.md"
   ]
 }
