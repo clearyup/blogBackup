@@ -71,6 +71,14 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "ab069c8bd6705678",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -124,10 +132,10 @@
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
     "database/ACID.md",
-    "hugo/hugo.md",
-    "hugo/algolia.md",
-    "windows/software.md",
     "English grammar/English.md",
+    "windows/software.md",
+    "hugo/algolia.md",
+    "hugo/hugo.md",
     "git/gitproxy.md",
     "English grammar/complexSentence.md",
     "templates/article.md.md",
