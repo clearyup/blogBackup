@@ -8,4 +8,4 @@ lightgallery: true
 ---
 # 数据库的ACID原则
 ## A(Atomicity)原子性
-原子性,是指
+原子性,是指全有或者全无原则
