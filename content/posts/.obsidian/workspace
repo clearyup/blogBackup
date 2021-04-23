@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English grammar/English.md",
+            "file": "English grammar/Subordinate.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English grammar/English.md",
+            "file": "English grammar/Subordinate.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English grammar/English.md",
+                "file": "English grammar/Subordinate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English grammar/English.md"
+                "file": "English grammar/Subordinate.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "English grammar/Subordinate.md",
     "English grammar/English.md",
     "database/ACID.md",
     "windows/software.md",
@@ -139,7 +140,6 @@
     "git/gitproxy.md",
     "English grammar/complexSentence.md",
     "templates/article.md.md",
-    "English grammar/complexSentence.md.md",
-    "article.md.md"
+    "English grammar/complexSentence.md.md"
   ]
 }
