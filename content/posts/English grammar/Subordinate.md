@@ -74,10 +74,10 @@ lightgallery: true
 
 
 这样的主谓结构一般主要意思放在前面,下面是一些常见it句子结构
->It is + adj./n. + to do sth.
-> It is + v. + to do sth.
-> It is + adj./n. + doing sth.
-> It + be + adj./n. + that 从句
+>It is + adj./n. + to do sth.   
+> It is + v. + to do sth.   
+> It is + adj./n. + doing sth.   
+> It + be + adj./n. + that 从句   
 > It + be + 动词过去分词 + that从句
 - that的省略
 
