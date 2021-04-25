@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English grammar/Subordinate.md",
+            "file": "English grammar/English.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English grammar/Subordinate.md",
+            "file": "English grammar/English.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English grammar/Subordinate.md",
+                "file": "English grammar/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English grammar/Subordinate.md"
+                "file": "English grammar/English.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
-    "English grammar/Subordinate.md",
     "English grammar/English.md",
+    "English grammar/Subordinate.md",
     "database/ACID.md",
     "windows/software.md",
     "hugo/algolia.md",
