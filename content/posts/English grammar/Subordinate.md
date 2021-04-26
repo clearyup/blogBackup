@@ -133,3 +133,124 @@ which/whom在从句中作宾语的省略 | 可省略 | 可以
 >- 先行词唯一:that,代一个名词
 >- 先行词多选一:which,代多个名词中一个
 >- 关系副词 = 介词 + which
+
+## 状语从句
+在句子中起副词作用,一般补充说明动词,形容词,副词等.根据引导词一共可以分为**9**类:时间,地点,条件,让步,方式,比较,原因,目的,结果
+### 时间状语从句
+引导词:
+
+- 普通引导词:
+>when(在...时候)   
+>as(正当/随着)   
+>while(在...期间)   
+>once(一旦)   
+>as soon as(一...就...)   
+>before(在...之前)   
+>after(在...之后)   
+>since(自...以来)   
+>not...until(直到...才)   
+>until/till(直到...时)
+
+
+- 名词短语
+>the moment(一...就)   
+>every time(每当)   
+>the day(那一天)   
+>the instant (当...的时候)   
+
+- 副词
+>immediately,directly,no sooner...than,hardly...when,scarcrly...when   
+>都表示一...就
+
+
+- when,while,as的区别   
+>when表"当...时",引导的从句谓语动词可以用延续性动词,也可以用短暂性动词,强调时间点   
+>while表"在...时",引导的从句谓语动词只能用延续性动词,强调时间段   
+>as表"一边...一边...",引导的从句谓语动词是延续性动词,强调同时发生
+
+- no sooner...than和hardly...when引导的时间状语从句   
+含义 : 表一...就...   
+时态: 主句用过去完成时,从句用一般过去时
+
+- when特殊用法   
+当when引导时间状语从句,如果从句和主句主语一致,并且从句的谓语中有be动词,此时从句的主语和be动词可以一起省略
+>When I was a little boy, I loved phenbi so much.   
+>省略后   
+>When a little boy, I loved phenbi so much.
+
+- 区分until和not...until   
+>主句的谓语动词是短暂性动词,用not...until,如果是延续性动词,使用until
+
+
+
+
+### 地点状语从句
+常用引导词: where   
+强调形式引导词: wherever, everywhere, anywhere   
+where引导的地点状语从句和定语从句的区别与转换
+- 区别
+
+
+>where指代前面的先行词就是定语从句,否则就是地点状语从句   
+
+
+>当where引导地点状语从句时,where是从属连词,从句修饰主句的谓语动词,where前边没有表示地点的先行词   
+
+- 转换   
+
+>一般在状语从句前加上"in/at the + 具体地点",就变成了定语从句
+### 比较状语从句
+常用引导词: as, than   
+特殊引导词: the more...the more...,more than, more...than...,not so mush ... as...
+### 条件状语从句
+常用引导词: if, unless(表示 if not)   
+特殊引导词: as/so long(只要), only if(只要), providing/provided that(假如), supposing(that)(假如), in case that(以防), on condition that(如果)   
+>一般条件句比主句落后一个时间段   
+
+### 让步状语从句
+让步状语从句是用来阐述相反/相对的某种情况   
+常用引导词: though, although, even if, even though   
+特殊引导词: as, while(作"虽然"之意讲,用在句首), no matter...(无论),   in spite of the fact that(虽然,尽管), whatever, whoever, wherever, whenever, however, whichever   
+- 假设的情况   
+
+>Even if i see an egg, I will not eat it.
+
+- 事实的情况   
+
+
+>Although I see a carrot, I will not eat it.
+
+### 方式状语从句
+条件,让步,方式状语从句都是阐述某种情况/做出某种假设    
+
+常用引导词: as, as if, as though(好像,似乎)   
+特殊引导词: the way(方式)
+
+一般分为两种形式   
+- 好像某事发生过的方式
+
+>I feel good as if I just ate an egg.
+- 好像某事正在发生的方式   
+
+>Leave the egg as it is.   
+
+### 原因状语从句
+原因,目的,结果状语从句-->表达了某种因果   如 A-->B的形式   
+常用引导词: because, since, as , for   
+不常用引导词: seeing that, now that, in that, considering that, given that, as much as, so much as   
+>这些介词短语也翻译成因为,但是后面只能跟名词(短语)   
+>because of, due to , owing to, thanks to, for the sake of, as a result of   
+
+ 
+### 目的状语从句
+常用引导词: so that, in order that   
+常用动词不定式: to , in order to, so as to,后跟动词原形
+>用 in order to的时候一定要保持前后主语一致,主语不一致的时候要使用 in order that   
+
+
+
+
+
+### 结果状语从句
+常用引导词: so that, so...that, such...that   
+不常用引导词: to the degree that, to the extent that, to such a degree that
