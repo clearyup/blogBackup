@@ -5,7 +5,11 @@ draft: false
 ---
 # 个人说明
 
+{{< admonition type=quote title="引言" open=ture >}}
 这是一个使用 hugo+ github pages + vervel搭建的个人静态博客,其实有很多其他的选择,但是hugo的静态页面构建速度是最快的,因此选择了hugo
+{{< /admonition >}}
+
+>下面是博客的介绍
 
 此博客主题使用的是LoveIt,本地最好使用hugo_extended版本,部署到vercel注意加上variable environment HUGO_VERSION 0.80.0
 
