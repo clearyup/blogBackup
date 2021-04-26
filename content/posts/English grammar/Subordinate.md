@@ -253,4 +253,13 @@ where引导的地点状语从句和定语从句的区别与转换
 
 ### 结果状语从句
 常用引导词: so that, so...that, such...that   
-不常用引导词: to the degree that, to the extent that, to such a degree that
+不常用引导词: to the degree that, to the extent that, to such a degree that   
+so that，so...that和such...that的区别
+1. so that既可以引导目的状语从句,也可以引导结果状语从句,引导目的状语时,会和情态动词一起连用,引导结果状语从句时,则不和情态动词连用
+2. so...that的用法   
+   - so + adj./adv. + that
+   - so + many/much/few/little + n. +that
+   - so + adj. + a/an + 可数名词单数 +that 
+3. such...that的用法
+    - such + a/an + adj. + 可数名词单数 + that
+    - such + adj + 可数名词复数/不可数名词 + that
