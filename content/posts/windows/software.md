@@ -92,3 +92,18 @@ lightgallery: true
 
 >[Mactype](https://mactype.net/)
 
+
+## 网络问题
+谷歌浏览器无法上网时的3种解决方案
+>1.更改dns为阿里的223.5.5.5   
+
+>2.cmd执行以下命令   
+>```bash
+netsh winsock reset  :: 重置winsock目录
+>netsh int ip reset  :: 重置tcp/ip各组件到初始状态
+>ipconfig /release  :: DHCP客户端手工释放动态IP地址
+>ipconfig /renew  :: DHCP客户端手工向服务器刷新请求
+>ipconfig /flushdns  :: 清除本地DNS缓存
+>```
+
+>3.设置-->网络和Internet-->状态-->网络重置
