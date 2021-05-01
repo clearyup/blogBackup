@@ -112,8 +112,8 @@ ipconfig /flushdns  :: 清除本地DNS缓存
 > 安装浏览器扩展`URLRedirector`   
 
 >添加用户规则
-![win1](Pasted%20image%2020210501214400.png)
+![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210501214358.png)
 
 >或者在广告拦截插件`uBlock Origin`中加入   
 >||google.com.hk$script
-![win2](Pasted%20image%2020210501214753.png)
+![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210501220148.png)
