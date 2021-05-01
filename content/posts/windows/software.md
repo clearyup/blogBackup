@@ -107,3 +107,13 @@ netsh winsock reset  :: 重置winsock目录
 >```
 
 >3.设置-->网络和Internet-->状态-->网络重置
+
+谷歌浏览器重定向到www.google.com.hk 的解决方案   
+> 安装浏览器扩展`URLRedirector`   
+
+>添加用户规则
+![user](Pasted%20image%2020210501214400.png)
+
+>或者在广告拦截插件`uBlock Origin`中加入   
+>||google.com.hk$script
+![](Pasted%20image%2020210501214753.png)
