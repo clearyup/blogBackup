@@ -98,13 +98,13 @@ lightgallery: true
 >1.更改dns为阿里的223.5.5.5   
 
 >2.cmd执行以下命令   
->```bash
+```bash
 netsh winsock reset  :: 重置winsock目录
->netsh int ip reset  :: 重置tcp/ip各组件到初始状态
->ipconfig /release  :: DHCP客户端手工释放动态IP地址
->ipconfig /renew  :: DHCP客户端手工向服务器刷新请求
->ipconfig /flushdns  :: 清除本地DNS缓存
->```
+netsh int ip reset  :: 重置tcp/ip各组件到初始状态
+ipconfig /release  :: DHCP客户端手工释放动态IP地址
+ipconfig /renew  :: DHCP客户端手工向服务器刷新请求
+ipconfig /flushdns  :: 清除本地DNS缓存
+```
 
 >3.设置-->网络和Internet-->状态-->网络重置
 
@@ -112,8 +112,8 @@ netsh winsock reset  :: 重置winsock目录
 > 安装浏览器扩展`URLRedirector`   
 
 >添加用户规则
-![user](Pasted%20image%2020210501214400.png)
+![win1](Pasted%20image%2020210501214400.png)
 
 >或者在广告拦截插件`uBlock Origin`中加入   
 >||google.com.hk$script
-![](Pasted%20image%2020210501214753.png)
+![win2](Pasted%20image%2020210501214753.png)
