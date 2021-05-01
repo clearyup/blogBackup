@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "windows/software.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "f15496f96dca1c91"
@@ -133,13 +133,13 @@
   "lastOpenFiles": [
     "windows/software.md",
     "windows/ffmpeg.md",
+    "windows/Pasted image 20210501214400.png",
+    "windows/Pasted image 20210501214753.png",
     "English grammar/Subordinate.md",
     "English grammar/English.md",
     "hugo/algolia.md",
     "hugo/hugo.md",
     "windows/Pasted image 20210426203443.png",
-    "database/ACID.md",
-    "git/gitproxy.md",
-    "English grammar/complexSentence.md"
+    "database/ACID.md"
   ]
 }
