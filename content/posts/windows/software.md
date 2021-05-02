@@ -30,9 +30,9 @@ lightgallery: true
 
 >[IDM](https://clearstack.lanzous.com/ijbryoppzze)
 
->[Typora](https://typora.io/) 
->[Obsidian](https://obsidian.md/) 
->[Notion](https://www.notion.so/) 
+>[Typora](https://typora.io/)   
+>[Obsidian](https://obsidian.md/)   Obsidian Nord主题  
+>[Notion](https://www.notion.so/)   
 >[picgo](https://github.com/Molunerfinn/PicGo/releases)
 
 >[Capslock+](https://capslox.com/capslock-plus/)
@@ -43,9 +43,11 @@ lightgallery: true
 
 >[BookxNote pro](http://www.bookxnote.com/)
 
->[vscode](https://code.visualstudio.com/) 
->[sublimeText3](https://www.sublimetext.com/3) 
->idea 
+>[vscode](https://code.visualstudio.com/)      
+>Nord Operator Theme  
+>c:/user/.vscode下更改`theme.json文件`fontstyle为“”，去除斜体样式
+>[sublimeText3](https://www.sublimetext.com/3)   
+>idea   
 >[git](https://git-scm.com/)
 
 >Vmware workstation `U盘安装`
