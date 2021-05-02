@@ -7,7 +7,7 @@ categories: ["windows"]
 lightgallery: true
 ---
 ## 常用软件
->[Clash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅 `U盘安装`
+>[githubClash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅  [蓝奏云Clash](https://clearstack.lanzous.com/icd96oppxvi)
 
 >[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 
@@ -28,7 +28,7 @@ lightgallery: true
 
 >[百度网盘](https://pan.baidu.com/download#pan)
 
->IDM `U盘安装`
+>[IDM](https://clearstack.lanzous.com/ijbryoppzze)
 
 >[Typora](https://typora.io/) 
 >[Obsidian](https://obsidian.md/) 
