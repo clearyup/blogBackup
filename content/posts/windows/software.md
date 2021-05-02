@@ -7,7 +7,8 @@ categories: ["windows"]
 lightgallery: true
 ---
 ## 常用软件
->[githubClash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅  [蓝奏云Clash](https://clearstack.lanzous.com/icd96oppxvi)
+>[githubClash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅    
+> [蓝奏云Clash](https://clearstack.lanzous.com/icd96oppxvi)
 
 >[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 
@@ -15,7 +16,7 @@ lightgallery: true
 
 >Potplayer 无边框设置,`U盘安装`
 
->[腾讯桌面管理软件](https://guanjia.qq.com/product/zmzl/)
+>[腾讯桌面管理软件](https://guanjia.qq.com/product/zmzl/)  
 >[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
 >[OBS](https://obsproject.com/) 
@@ -28,7 +29,8 @@ lightgallery: true
 
 >[百度网盘](https://pan.baidu.com/download#pan)
 
->[IDM](https://clearstack.lanzous.com/ijbryoppzze)
+>[IDM](https://clearstack.lanzous.com/ijbryoppzze)   
+>[Motrix](https://github.com/agalwood/Motrix/releases)
 
 >[Typora](https://typora.io/)   
 >[Obsidian](https://obsidian.md/)   Obsidian Nord主题  
@@ -45,7 +47,7 @@ lightgallery: true
 
 >[vscode](https://code.visualstudio.com/)      
 >Nord Operator Theme  
->c:/user/.vscode下更改`theme.json文件`fontstyle为“”，去除斜体样式
+>c:/user/.vscode下更改`theme.json文件`fontstyle为“”，去除斜体样式     
 >[sublimeText3](https://www.sublimetext.com/3)   
 >idea   
 >[git](https://git-scm.com/)
@@ -53,6 +55,7 @@ lightgallery: true
 >Vmware workstation `U盘安装`
 
 >Termius `U盘安装`
+
 
 
 
