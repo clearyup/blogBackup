@@ -8,19 +8,54 @@ lightgallery: true
 ---
 ## 常用软件
 >[githubClash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅    
-> [蓝奏云Clash](https://clearstack.lanzous.com/icd96oppxvi)
+> [蓝奏云Clash](https://clearstack.lanzous.com/icd96oppxvi)   
+> mixin开启增强模式
+```yaml
+mixin: 
+   dns:
+     enable: true
+     listen: 127.0.0.1:53
+     default-nameserver:
+       - 223.5.5.5
+       - 1.0.0.1
+     ipv6: false
+     enhanced-mode: fake-ip #redir-host
+     nameserver:
+       - tls://223.5.5.5:853
+       - https://dns.pub/dns-query
+       - https://dns.alidns.com/dns-query
+     fallback: #if https-dns not working,try (DOT)tls://
+       - https://1.0.0.1/dns-query  #tls://1.0.0.1:853
+       - https://public.dns.iij.jp/dns-query
+       - https://dns.google/dns-query #tls://8.8.4.4:853
+     fallback-filter:
+       geoip: true
+       ipcidr:
+         - 240.0.0.0/4
+         - 0.0.0.0/32
+         - 127.0.0.1/32
+       domain:
+         - +.google.com
+         - +.facebook.com
+         - +.youtube.com
+         - +.xn--ngstr-lra8j.com
+         - +.google.cn
+         - +.googleapis.cn
+```
+![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210503192522.png)
+
 
 >[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 
 >Bandizip,防火墙设置拦截更新程序,`U盘安装`
 
->Potplayer 无边框设置,`U盘安装`
+>[Potplayer](https://clearstack.lanzous.com/iGFFlorle5g) 无边框设置
 
 >[腾讯桌面管理软件](https://guanjia.qq.com/product/zmzl/)  
 >[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
 >[OBS](https://obsproject.com/) 
->Gif动图录制软件 `U盘安装`
+>[Gif动图录制软件](https://clearstack.lanzous.com/iUsZQormcoj)
 
 >[uTools](https://u.tools/)
 内部安装everything
@@ -30,8 +65,9 @@ lightgallery: true
 >[百度网盘](https://pan.baidu.com/download#pan)
 
 >[IDM](https://clearstack.lanzous.com/ijbryoppzze)   
->[Motrix](https://github.com/agalwood/Motrix/releases)
-
+>[Motrix](https://github.com/agalwood/Motrix/releases) [dht.bat](https://clearstack.lanzous.com/iWfJrorgccb)    
+>[YAAMconfig](chrome-extension://dennnbdlpgjgbcjfgaohdahloollfgoc/options.html)   
+>[Motrix-extension](https://github.com/gautamkrishnar/motrix-webextension/releases)   
 >[Typora](https://typora.io/)   
 >[Obsidian](https://obsidian.md/)   Obsidian Nord主题  
 >[Notion](https://www.notion.so/)   
@@ -39,14 +75,14 @@ lightgallery: true
 
 >[Capslock+](https://capslox.com/capslock-plus/)
 
->IObit Uninstaller Portable `U盘安装`
+>[IObit Uninstaller Portable](https://clearstack.lanzous.com/ihy6Eoricri)
 
 >[Snipaste](https://zh.snipaste.com/)
 
 >[BookxNote pro](http://www.bookxnote.com/)
 
 >[vscode](https://code.visualstudio.com/)      
->Nord Operator Theme  
+>`Nord Operator Theme`  
 >c:/user/.vscode下更改`theme.json文件`fontstyle为“”，去除斜体样式     
 >[sublimeText3](https://www.sublimetext.com/3)   
 >idea   
@@ -66,8 +102,21 @@ lightgallery: true
 
 >c/c++  MinGW/Clang
 
->python3
->you-get
+>python3   
+>you-get 
+```bash
+you-get -x 127.0.0.1:7890 " "
+```
+>scoop 包管理工具   
+```bash
+scoop config proxy 127.0.0.1:7890
+```
+>annie
+
+```bash
+scoop install annie
+
+```
 
 >git
 

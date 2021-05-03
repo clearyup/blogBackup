@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "python/imageai.md",
             "mode": "source"
           }
         },
-        "group": "f15496f96dca1c91"
+        "group": "6308eb840805a8bb"
       },
       {
-        "id": "1a90895770b3259e",
+        "id": "b93a6d5cd8df8fc4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "python/imageai.md",
             "mode": "preview"
           }
         },
-        "group": "f15496f96dca1c91"
+        "group": "6308eb840805a8bb"
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/software.md",
+                "file": "python/imageai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/software.md"
+                "file": "python/imageai.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "python/imageai.md",
     "windows/software.md",
     "windows/ffmpeg.md",
     "windows/Pasted image 20210501214400.png",
@@ -139,7 +140,6 @@
     "English grammar/English.md",
     "hugo/algolia.md",
     "hugo/hugo.md",
-    "windows/Pasted image 20210426203443.png",
-    "database/ACID.md"
+    "windows/Pasted image 20210426203443.png"
   ]
 }
