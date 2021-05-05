@@ -218,10 +218,10 @@ python firstVidioDetection.py
 ```
 
 原视频片段:
-![](traffic.gif)
+![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/traffic.gif)
 
 识别后:
-![](all.gif)
+![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/all.gif)
 
 修改代码,只识别摩托车自行车和人
 
@@ -249,4 +249,4 @@ video_path = detector.detectCustomObjectsFromVideo(
 ```
 
 修改后的运行结果:
-![](cyl.gif)
+![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210505204915.gif)
