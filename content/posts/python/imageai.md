@@ -63,8 +63,8 @@ testImage
 !wget https://github.com/OlafenwaMoses/ImageAI/raw/master/data-images/image2.jpg
 ```
 ### 运行
-- vscode中运行,确保有`Python`扩展和`TabNine`扩展,并且选择了Python3.7解释器
-没选的control+shift+p然后输入Python找到Select Interpreter回车勾选Python3.7解释器回车
+- vscode中运行,确保有`Python`扩展和`TabNine`扩展,并且选择了Python3.7解释器   
+没选的control+shift+p然后输入Python找到Select Interpreter回车勾选Python3.7解释器后回车
 
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210503105956.png)
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210503110404.png)
@@ -208,7 +208,7 @@ video_path = detector.detectObjectsFromVideo(input_file_path=os.path.join(execut
 
 这里的视频检测代码是输出2s的视频,每秒20帧,因为使用电脑的cpu跑的,如果你安装好了`cuda`和`cuDNN`和`GPU`版本的Tensorflow库你可以设置更多的输出时长和视频帧率   
 
->以下是在colab用GPU跑的每秒30帧的10s输出视频结果,`8G的GPU`一共用将近`20分钟`,因此设置参数可以做个参考
+>以下是在colab用GPU跑的每秒30帧的10s输出视频结果,`8G的GPU`一共用将近`20分钟`,设置参数时可以做个参考
 
 ![image-20210505200643955](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/image-20210505200643955.png)
 
@@ -217,10 +217,12 @@ video_path = detector.detectObjectsFromVideo(input_file_path=os.path.join(execut
 python firstVidioDetection.py
 ```
 
-原视频片段:
+原视频片段:   
+
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/traffic.gif)
 
-识别后:
+识别后:   
+
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/all.gif)
 
 修改代码,只识别摩托车自行车和人
@@ -248,5 +250,6 @@ video_path = detector.detectCustomObjectsFromVideo(
 
 ```
 
-修改后的运行结果:
+修改后的运行结果:   
+
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210505204915.gif)
