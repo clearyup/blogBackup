@@ -51,3 +51,28 @@ ffmpeg -i input.mp3 -ss 00:03:10 -to 00:05:10 output.mp3
 ```bash
 ffmpeg -i input.mp4 -ss 00:03:10 -to 00:05:10 -c copy output.mp4
 ```
+
+### 视频转GIF
+- 将视频中的一部分转换为GIF,从视频中第3秒开始截取时长为3秒的片段转化为 gif
+
+```
+ffmpeg -t 3 -ss 00:00:03 -i test.mp4 test-clip.gif
+```
+
+- 转化高质量 GIF
+
+```
+ffmpeg -i test.mp4 -b 2048k test.gif
+```
+
+- 将 GIF 转换为 MP4
+
+```
+ffmpeg -f gif -i test.gif test.mp4
+```
+
+- 移除视频中的音频(静音),-an 就是禁止音频输出
+
+```
+ffmpeg -i input.mov -an mute-output.mov
+```
