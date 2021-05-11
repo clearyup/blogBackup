@@ -269,10 +269,13 @@ video_path = detector.detectCustomObjectsFromVideo(
 
 >假设我们现在需要计算一个函数$f(x,y,z)=(x+y)*z$ 在$x=-2,y=5,z=-4$的`梯度`,计算流程如下:
 >- 向前传播计算: $f(x=2,y=5,z=-4)$结果为-12
->- 反向传播计算: 令$q=x+y$  
->${\frac {df}{dz}}=q=x+y=3$        
->${\frac {df}{dx}}={\frac {df}{dq}}\cdot{\frac {dq}{dx}}=z\cdot1=-4$   
->${\frac {df}{dy}}={\frac {df}{dq}}\cdot{\frac {dq}{dx}}=z\cdot1=-4$
+>- 反向传播计算: 令$q=x+y$   
+>  
+>- ${\frac {df}{dz}}=q=x+y=3$   
+>        
+>- ${\frac {df}{dx}}={\frac {df}{dq}}\cdot{\frac {dq}{dx}}=z\cdot1=-4$    
+>  
+>- ${\frac {df}{dy}}={\frac {df}{dq}}\cdot{\frac {dq}{dx}}=z\cdot1=-4$
 
 这里假设输出端初始的梯度为 1，也就是输出端对自身求导等于 1。当神经网络反向传播的时候，不难发现，在输出端梯度的模值，经过回传扩大了3或缩小4倍 
 这是由于反向传播结果的**数值大小**不止取决于求导的式子，很大程度上也取决于**输入的模值**
