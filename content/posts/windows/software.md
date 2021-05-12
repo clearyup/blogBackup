@@ -47,7 +47,8 @@ mixin:
 
 >[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 
->Bandizip,防火墙设置拦截更新程序,`U盘安装`
+>Bandizip,防火墙设置拦截更新程序,`U盘安装`   
+>[7zip](https://sparanoid.com/lab/7z/)
 
 >[Potplayer](https://clearstack.lanzous.com/iGFFlorle5g) 无边框设置
 
@@ -64,7 +65,9 @@ mixin:
 
 >[百度网盘](https://pan.baidu.com/download#pan)
 
->[IDM](https://clearstack.lanzous.com/ijbryoppzze)   
+>[IDM](https://clearstack.lanzous.com/ijbryoppzze)  
+>[绿色版IDM](https://clearstack.lanzoui.com/ihB7Qp1tgpg)   
+>[手动破解版IDM](https://clearstack.lanzoui.com/iJpX9p1tgub)   
 >[Motrix](https://github.com/agalwood/Motrix/releases) [dht.bat](https://clearstack.lanzous.com/iWfJrorgccb)    
 >[YAAMconfig](chrome-extension://dennnbdlpgjgbcjfgaohdahloollfgoc/options.html)   
 >[Motrix-extension](https://github.com/gautamkrishnar/motrix-webextension/releases)   

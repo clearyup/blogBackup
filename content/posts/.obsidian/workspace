@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/imageai.md",
+            "file": "windows/software.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/imageai.md",
+            "file": "windows/software.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/imageai.md",
+                "file": "windows/software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/imageai.md"
+                "file": "windows/software.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "windows/software.md",
     "python/imageai.md",
     "git/gitproxy.md",
     "English grammar/English.md",
@@ -139,7 +140,6 @@
     "python/traffic.gif",
     "python/all.gif",
     "python/cyl.gif",
-    "windows/ffmpeg.md",
-    "windows/software.md"
+    "windows/ffmpeg.md"
   ]
 }
