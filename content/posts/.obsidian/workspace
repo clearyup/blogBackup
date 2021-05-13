@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "python/flask.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "python/flask.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/software.md",
+                "file": "python/flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/software.md"
+                "file": "python/flask.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
-    "windows/software.md",
+    "python/flask.md",
     "python/imageai.md",
+    "windows/software.md",
     "git/gitproxy.md",
     "English grammar/English.md",
     "English grammar/Subordinate.md",
     "database/ACID.md",
     "python/traffic.gif",
     "python/all.gif",
-    "python/cyl.gif",
-    "windows/ffmpeg.md"
+    "python/cyl.gif"
   ]
 }
