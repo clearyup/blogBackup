@@ -147,8 +147,15 @@ scoop install annie
 
 >[Noto Serif字体](https://www.google.com/get/noto/#serif-lgc)
 
->[Mactype](https://mactype.net/)
+>[Mactype](https://mactype.net/)   
 
+
+>cmd设置代理
+
+```bash
+set http_proxy=http://127.0.0.1:7890
+set https_proxy=http://127.0.0.1:7890
+```
 
 ## 网络问题
 谷歌浏览器无法上网时的3种解决方案
