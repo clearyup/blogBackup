@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/flask.md",
+            "file": "hugo/hugo.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/flask.md",
+            "file": "hugo/hugo.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/flask.md",
+                "file": "hugo/hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/flask.md"
+                "file": "hugo/hugo.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "hugo/hugo.md",
     "python/flask.md",
     "windows/ffmpeg.md",
     "python/imageai.md",
@@ -139,7 +140,6 @@
     "windows/Pasted image 20210514102231.png",
     "git/gitproxy.md",
     "English grammar/English.md",
-    "English grammar/Subordinate.md",
-    "database/ACID.md"
+    "English grammar/Subordinate.md"
   ]
 }
