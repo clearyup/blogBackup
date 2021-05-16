@@ -211,9 +211,10 @@ def detection_upfile():
 </table>
 ```
 
-输出样例:   
+- 输出样例:    
+
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210513204559.png)
 
 >退出登录
 
-点击 sign out就会退出系统
+- 点击 sign out就会退出系统，会重定向到login.html

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/vim.md",
+            "file": "python/flask.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/vim.md",
+            "file": "python/flask.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/vim.md",
+                "file": "python/flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/vim.md"
+                "file": "python/flask.md"
               }
             }
           }
@@ -131,10 +131,10 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
-    "Linux/vim.md",
     "python/flask.md",
-    "python/imageai.md",
     "windows/ffmpeg.md",
+    "python/imageai.md",
+    "Linux/vim.md",
     "windows/software.md",
     "windows/Pasted image 20210514102231.png",
     "git/gitproxy.md",
