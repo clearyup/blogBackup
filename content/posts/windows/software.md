@@ -1,6 +1,6 @@
 ---
 title: "Software"
-date: 2021-04-19T17:28:21+08:00
+date: 2021-05-16T17:28:21+08:00
 draft: false
 tags: ["windows"]
 categories: ["windows"]
