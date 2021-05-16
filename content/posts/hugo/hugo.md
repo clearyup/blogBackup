@@ -136,6 +136,6 @@ git push -u origin master
 >
 
 ## 添加 .nojekyll 文件 
->避免 github 认为你使用了jekyll构建项目，添加.nojekyll文件到仓库 
+>避免 github 认为你使用了jekyll构建项目，添加.nojekyll文件到仓库，最好使用谷歌邮箱不要使用qq邮箱
 
 
