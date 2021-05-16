@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
+            "file": "windows/software.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
+            "file": "windows/software.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo/hugo.md",
+                "file": "windows/software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo/hugo.md"
+                "file": "windows/software.md"
               }
             }
           }
@@ -131,14 +131,14 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "windows/software.md",
+    "git/gitproxy.md",
     "hugo/hugo.md",
     "python/flask.md",
     "windows/ffmpeg.md",
     "python/imageai.md",
     "Linux/vim.md",
-    "windows/software.md",
     "windows/Pasted image 20210514102231.png",
-    "git/gitproxy.md",
     "English grammar/English.md",
     "English grammar/Subordinate.md"
   ]
