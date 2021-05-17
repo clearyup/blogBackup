@@ -7,6 +7,13 @@ categories: ["windows"]
 lightgallery: true
 ---
 ## 常用软件
+>[Chrome](https://www.google.com/intl/zh-CN/chrome/)
+
+>Bandizip,防火墙设置拦截更新程序,`U盘安装`   
+>[7zip](https://sparanoid.com/lab/7z/)    
+  
+>[Snipaste](https://zh.snipaste.com/)
+
 >[githubClash](https://github.com/Fndroid/clash_for_windows_pkg),设置自动更新订阅    
 > [蓝奏云Clash](https://clearstack.lanzous.com/icd96oppxvi)   
 > mixin开启增强模式
@@ -45,10 +52,7 @@ mixin:
 ![](https://cdn.jsdelivr.net/gh/clearyup/picgo/img/20210503192522.png)
 
 
->[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 
->Bandizip,防火墙设置拦截更新程序,`U盘安装`   
->[7zip](https://sparanoid.com/lab/7z/)
 
 >[Potplayer](https://clearstack.lanzous.com/iGFFlorle5g) 无边框设置
 
@@ -70,7 +74,9 @@ mixin:
 >[手动破解版IDM](https://clearstack.lanzoui.com/iJpX9p1tgub)   
 >[Motrix](https://github.com/agalwood/Motrix/releases) [dht.bat](https://clearstack.lanzous.com/iWfJrorgccb)    
 >[YAAMconfig](chrome-extension://dennnbdlpgjgbcjfgaohdahloollfgoc/options.html)   
->[Motrix-extension](https://github.com/gautamkrishnar/motrix-webextension/releases)   
+>[Motrix-extension](https://github.com/gautamkrishnar/motrix-webextension/releases)    
+
+ 
 >[Typora](https://typora.io/)   
 >[Obsidian](https://obsidian.md/)   Obsidian Nord主题  
 >[Notion](https://www.notion.so/)   
@@ -80,8 +86,6 @@ mixin:
 
 >[IObit Uninstaller Portable](https://clearstack.lanzous.com/ihy6Eoricri)
 
->[Snipaste](https://zh.snipaste.com/)
-
 >[BookxNote pro](http://www.bookxnote.com/)
 
 >[vscode](https://code.visualstudio.com/)      
@@ -89,6 +93,8 @@ mixin:
 >c:/user/.vscode下更改`theme.json文件`fontstyle为“”，去除斜体样式     
 >[sublimeText3](https://www.sublimetext.com/3)   
 >idea   
+
+  
 >[git](https://git-scm.com/)
 
 >Vmware workstation `U盘安装`

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
+            "file": "windows/software.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo/hugo.md",
+            "file": "windows/software.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo/hugo.md",
+                "file": "windows/software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo/hugo.md"
+                "file": "windows/software.md"
               }
             }
           }
@@ -131,12 +131,12 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "windows/software.md",
     "hugo/hugo.md",
     "hugo/algolia.md",
     "python/YOLO.md",
     "python/imageai.md",
     "python/flask.md",
-    "windows/software.md",
     "git/gitproxy.md",
     "windows/ffmpeg.md",
     "Linux/vim.md",
