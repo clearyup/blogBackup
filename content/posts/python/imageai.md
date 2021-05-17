@@ -2,7 +2,7 @@
 title: "imageai"
 date: 2021-05-03T09:02:48+08:00
 draft: false
-tags: ["imageai"]
+tags: ["ImageAi"]
 categories: ["python"]
 lightgallery: true
 ---

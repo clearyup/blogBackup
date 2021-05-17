@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "python/YOLO.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "python/YOLO.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/software.md",
+                "file": "python/YOLO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/software.md"
+                "file": "python/YOLO.md"
               }
             }
           }
@@ -131,11 +131,11 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
+    "python/YOLO.md",
+    "python/imageai.md",
     "windows/software.md",
     "hugo/hugo.md",
     "hugo/algolia.md",
-    "python/YOLO.md",
-    "python/imageai.md",
     "python/flask.md",
     "git/gitproxy.md",
     "windows/ffmpeg.md",
