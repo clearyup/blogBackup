@@ -1,8 +1,8 @@
 ---
-title: "imageai"
+title: "ImageAi"
 date: 2021-05-03T09:02:48+08:00
 draft: false
-tags: ["ImageAi"]
+tags: ["imageai"]
 categories: ["python"]
 lightgallery: true
 ---

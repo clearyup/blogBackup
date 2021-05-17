@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/YOLO.md",
+            "file": "python/imageai.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/YOLO.md",
+            "file": "python/imageai.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/YOLO.md",
+                "file": "python/imageai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/YOLO.md"
+                "file": "python/imageai.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
-    "python/YOLO.md",
     "python/imageai.md",
-    "windows/software.md",
+    "database/ACID.md",
+    "English grammar/Subordinate.md",
+    "English grammar/English.md",
+    "git/gitproxy.md",
     "hugo/hugo.md",
     "hugo/algolia.md",
-    "python/flask.md",
-    "git/gitproxy.md",
-    "windows/ffmpeg.md",
     "Linux/vim.md",
-    "windows/Pasted image 20210514102231.png"
+    "python/YOLO.md",
+    "python/flask.md"
   ]
 }

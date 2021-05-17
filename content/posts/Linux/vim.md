@@ -1,5 +1,5 @@
 ---
-title: "Vim"
+title: "Vim宏的使用"
 date: 2021-05-14T22:08:48+08:00
 draft: false
 tags: ["vim"]
