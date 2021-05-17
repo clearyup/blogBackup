@@ -132,6 +132,7 @@
   "active": "2de07016ef198ec9",
   "lastOpenFiles": [
     "hugo/hugo.md",
+    "hugo/algolia.md",
     "python/YOLO.md",
     "python/imageai.md",
     "python/flask.md",
@@ -139,7 +140,6 @@
     "git/gitproxy.md",
     "windows/ffmpeg.md",
     "Linux/vim.md",
-    "windows/Pasted image 20210514102231.png",
-    "English grammar/English.md"
+    "windows/Pasted image 20210514102231.png"
   ]
 }
