@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/imageai.md",
+            "file": "math/math.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/imageai.md",
+            "file": "math/math.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/imageai.md",
+                "file": "math/math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/imageai.md"
+                "file": "math/math.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "b93a6d5cd8df8fc4",
   "lastOpenFiles": [
-    "python/imageai.md",
     "math/math.md",
+    "python/imageai.md",
     "Linux/vim.md",
     "python/YOLO.md",
     "windows/ffmpeg.md",
