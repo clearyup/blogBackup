@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "math/math.md",
+            "file": "windows/software.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "math/math.md",
+            "file": "windows/software.md",
             "mode": "preview"
           }
         },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/math.md",
+                "file": "windows/software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/math.md"
+                "file": "windows/software.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "b93a6d5cd8df8fc4",
   "lastOpenFiles": [
+    "windows/software.md",
     "math/math.md",
     "python/imageai.md",
     "Linux/vim.md",
@@ -139,7 +140,6 @@
     "database/ACID.md",
     "English grammar/Subordinate.md",
     "English grammar/English.md",
-    "git/gitproxy.md",
-    "hugo/hugo.md"
+    "git/gitproxy.md"
   ]
 }
