@@ -6,10 +6,11 @@
       {
         "id": "b93a6d5cd8df8fc4",
         "type": "leaf",
+        "dimension": 48.20415879017013,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "c++/pointer.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "e28e7381785094e2",
         "type": "leaf",
+        "dimension": 51.79584120982986,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "c++/pointer.md",
             "mode": "preview"
           }
         },
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/software.md",
+                "file": "c++/pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/software.md"
+                "file": "c++/pointer.md"
               }
             }
           }
@@ -131,15 +133,15 @@
   },
   "active": "b93a6d5cd8df8fc4",
   "lastOpenFiles": [
-    "windows/software.md",
+    "c++/pointer.md",
+    "hugo/hugo.md",
+    "git/gitproxy.md",
     "math/math.md",
     "python/imageai.md",
-    "Linux/vim.md",
+    "python/flask.md",
     "python/YOLO.md",
-    "windows/ffmpeg.md",
-    "database/ACID.md",
     "English grammar/Subordinate.md",
-    "English grammar/English.md",
-    "git/gitproxy.md"
+    "windows/software.md",
+    "Linux/vim.md"
   ]
 }
