@@ -1,1 +1,62 @@
-{"recentFiles":[{"basename":"pointer","path":"c++/pointer.md"},{"basename":"hugo","path":"hugo/hugo.md"},{"basename":"gitproxy","path":"git/gitproxy.md"},{"basename":"math","path":"math/math.md"},{"basename":"imageai","path":"python/imageai.md"},{"basename":"flask","path":"python/flask.md"},{"basename":"YOLO","path":"python/YOLO.md"},{"basename":"Subordinate","path":"English grammar/Subordinate.md"},{"basename":"software","path":"windows/software.md"},{"basename":"vim","path":"Linux/vim.md"},{"basename":"ffmpeg","path":"windows/ffmpeg.md"},{"basename":"ACID","path":"database/ACID.md"},{"basename":"English","path":"English grammar/English.md"},{"basename":"algolia","path":"hugo/algolia.md"}],"omittedPaths":[],"maxLength":50}
+{
+  "recentFiles": [
+    {
+      "basename": "pointer",
+      "path": "c++/pointer.md"
+    },
+    {
+      "basename": "hugo",
+      "path": "hugo/hugo.md"
+    },
+    {
+      "basename": "gitproxy",
+      "path": "git/gitproxy.md"
+    },
+    {
+      "basename": "math",
+      "path": "math/math.md"
+    },
+    {
+      "basename": "imageai",
+      "path": "python/imageai.md"
+    },
+    {
+      "basename": "flask",
+      "path": "python/flask.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "python/YOLO.md"
+    },
+    {
+      "basename": "Subordinate",
+      "path": "English grammar/Subordinate.md"
+    },
+    {
+      "basename": "software",
+      "path": "windows/software.md"
+    },
+    {
+      "basename": "vim",
+      "path": "Linux/vim.md"
+    },
+    {
+      "basename": "ffmpeg",
+      "path": "windows/ffmpeg.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "database/ACID.md"
+    },
+    {
+      "basename": "English",
+      "path": "English grammar/English.md"
+    },
+    {
+      "basename": "algolia",
+      "path": "hugo/algolia.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 50
+}

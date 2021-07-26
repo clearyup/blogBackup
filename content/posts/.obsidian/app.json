@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "current",
+  "foldIndent": true,
+  "foldHeading": true,
+  "trashOption": "none",
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "autoPairBrackets": true
+}
