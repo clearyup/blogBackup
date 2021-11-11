@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "software",
+      "path": "windows/software.md"
+    },
+    {
+      "basename": "ffmpeg",
+      "path": "windows/ffmpeg.md"
+    },
+    {
       "basename": "pointer",
       "path": "c++/pointer.md"
     },
@@ -33,16 +41,8 @@
       "path": "English grammar/Subordinate.md"
     },
     {
-      "basename": "software",
-      "path": "windows/software.md"
-    },
-    {
       "basename": "vim",
       "path": "Linux/vim.md"
-    },
-    {
-      "basename": "ffmpeg",
-      "path": "windows/ffmpeg.md"
     },
     {
       "basename": "ACID",

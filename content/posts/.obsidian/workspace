@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "c++/pointer.md",
+            "file": "windows/software.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "c++/pointer.md",
+            "file": "windows/software.md",
             "mode": "preview"
           }
         },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++/pointer.md",
+                "file": "windows/software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c++/pointer.md"
+                "file": "windows/software.md"
               }
             }
           }
@@ -133,6 +133,8 @@
   },
   "active": "b93a6d5cd8df8fc4",
   "lastOpenFiles": [
+    "windows/software.md",
+    "windows/ffmpeg.md",
     "c++/pointer.md",
     "hugo/hugo.md",
     "git/gitproxy.md",
@@ -140,8 +142,6 @@
     "python/imageai.md",
     "python/flask.md",
     "python/YOLO.md",
-    "English grammar/Subordinate.md",
-    "windows/software.md",
-    "Linux/vim.md"
+    "English grammar/Subordinate.md"
   ]
 }
