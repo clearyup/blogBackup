@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "math/math.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/software.md",
+            "file": "math/math.md",
             "mode": "preview"
           }
         },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/software.md",
+                "file": "math/math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/software.md"
+                "file": "math/math.md"
               }
             }
           }
@@ -133,12 +133,12 @@
   },
   "active": "b93a6d5cd8df8fc4",
   "lastOpenFiles": [
+    "math/math.md",
     "windows/software.md",
     "windows/ffmpeg.md",
     "c++/pointer.md",
     "hugo/hugo.md",
     "git/gitproxy.md",
-    "math/math.md",
     "python/imageai.md",
     "python/flask.md",
     "python/YOLO.md",

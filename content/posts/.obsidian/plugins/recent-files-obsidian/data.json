@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "math",
+      "path": "math/math.md"
+    },
+    {
       "basename": "software",
       "path": "windows/software.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "gitproxy",
       "path": "git/gitproxy.md"
-    },
-    {
-      "basename": "math",
-      "path": "math/math.md"
     },
     {
       "basename": "imageai",
