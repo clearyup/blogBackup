@@ -134,14 +134,14 @@
   "active": "b93a6d5cd8df8fc4",
   "lastOpenFiles": [
     "math/math.md",
-    "windows/software.md",
-    "windows/ffmpeg.md",
-    "c++/pointer.md",
-    "hugo/hugo.md",
+    "Linux/vim.md",
     "git/gitproxy.md",
-    "python/imageai.md",
     "python/flask.md",
     "python/YOLO.md",
-    "English grammar/Subordinate.md"
+    "python/imageai.md",
+    "c++/pointer.md",
+    "windows/software.md",
+    "windows/ffmpeg.md",
+    "hugo/hugo.md"
   ]
 }

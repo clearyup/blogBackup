@@ -5,28 +5,12 @@
       "path": "math/math.md"
     },
     {
-      "basename": "software",
-      "path": "windows/software.md"
-    },
-    {
-      "basename": "ffmpeg",
-      "path": "windows/ffmpeg.md"
-    },
-    {
-      "basename": "pointer",
-      "path": "c++/pointer.md"
-    },
-    {
-      "basename": "hugo",
-      "path": "hugo/hugo.md"
+      "basename": "vim",
+      "path": "Linux/vim.md"
     },
     {
       "basename": "gitproxy",
       "path": "git/gitproxy.md"
-    },
-    {
-      "basename": "imageai",
-      "path": "python/imageai.md"
     },
     {
       "basename": "flask",
@@ -37,12 +21,28 @@
       "path": "python/YOLO.md"
     },
     {
-      "basename": "Subordinate",
-      "path": "English grammar/Subordinate.md"
+      "basename": "imageai",
+      "path": "python/imageai.md"
     },
     {
-      "basename": "vim",
-      "path": "Linux/vim.md"
+      "basename": "pointer",
+      "path": "c++/pointer.md"
+    },
+    {
+      "basename": "software",
+      "path": "windows/software.md"
+    },
+    {
+      "basename": "ffmpeg",
+      "path": "windows/ffmpeg.md"
+    },
+    {
+      "basename": "hugo",
+      "path": "hugo/hugo.md"
+    },
+    {
+      "basename": "Subordinate",
+      "path": "English grammar/Subordinate.md"
     },
     {
       "basename": "ACID",
