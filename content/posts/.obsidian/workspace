@@ -4,30 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b93a6d5cd8df8fc4",
+        "id": "22875bb386cf50f0",
         "type": "leaf",
-        "dimension": 48.20415879017013,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "math/math.md",
-            "mode": "source"
-          }
-        },
-        "group": "d7550d1fb43cf7d2"
-      },
-      {
-        "id": "e28e7381785094e2",
-        "type": "leaf",
-        "dimension": 51.79584120982986,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "math/math.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d7550d1fb43cf7d2"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +52,8 @@
               "type": "markdown",
               "state": {
                 "file": "hugo/algolia.md",
-                "mode": "source"
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -102,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/math.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -131,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b93a6d5cd8df8fc4",
+  "active": "22875bb386cf50f0",
   "lastOpenFiles": [
+    "windows/ffmpeg.md",
     "math/math.md",
     "Linux/vim.md",
     "git/gitproxy.md",
@@ -141,7 +122,6 @@
     "python/imageai.md",
     "c++/pointer.md",
     "windows/software.md",
-    "windows/ffmpeg.md",
     "hugo/hugo.md"
   ]
 }

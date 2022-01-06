@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ffmpeg",
+      "path": "windows/ffmpeg.md"
+    },
+    {
       "basename": "math",
       "path": "math/math.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "software",
       "path": "windows/software.md"
-    },
-    {
-      "basename": "ffmpeg",
-      "path": "windows/ffmpeg.md"
     },
     {
       "basename": "hugo",

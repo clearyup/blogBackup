@@ -82,3 +82,8 @@ ffmpeg -i input.mov -an mute-output.mov
 ```bash
 ffmpeg -i video.mp4 -vf subtitles=subtitle.srt out.mp4
 ```
+
+### 转换视频格式
+```bash
+ffmpeg -i input.mkv -strict -2 output.mp4
+```
