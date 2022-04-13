@@ -7,8 +7,24 @@
         "id": "22875bb386cf50f0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "python/YOLO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "03b132cf01723825",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/YOLO.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -85,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python/YOLO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python/YOLO.md"
+              }
             }
           }
         ],
@@ -113,12 +132,12 @@
   },
   "active": "22875bb386cf50f0",
   "lastOpenFiles": [
+    "python/YOLO.md",
     "windows/ffmpeg.md",
     "math/math.md",
     "Linux/vim.md",
     "git/gitproxy.md",
     "python/flask.md",
-    "python/YOLO.md",
     "python/imageai.md",
     "c++/pointer.md",
     "windows/software.md",
